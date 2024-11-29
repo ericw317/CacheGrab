@@ -1,9 +1,3 @@
-# A cachegrab Flet app
+# CacheGrab
 
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```
+Take full control of the way you parse cache files from applications.
